@@ -1,0 +1,1 @@
+whisper your_audio.mp3 --language en --model medium
